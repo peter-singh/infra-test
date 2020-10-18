@@ -1,0 +1,15 @@
+IMAGES	x86_64	2020-10-17T00:40:27.000Z	True	xen	ami-0066b4f64ea5d2d14	207003333284/packer-example 1602895112	machine	packer-example 1602895112	207003333284	Linux/UNIX	False	/dev/sda1	ebs	simple	available	RunInstances	hvm
+BLOCKDEVICEMAPPINGS	/dev/sda1	
+EBS	True	False	snap-00484919fb416eb3d	8	gp2
+BLOCKDEVICEMAPPINGS	/dev/sdb	ephemeral0
+BLOCKDEVICEMAPPINGS	/dev/sdc	ephemeral1
+IMAGES	x86_64	2020-10-17T21:54:42.000Z	True	xen	ami-00f8bc0e2eeb89bb3	207003333284/packer-example 1602971596	machine	packer-example 1602971596	207003333284	Linux/UNIX	False	/dev/sda1	ebs	simple	available	RunInstances	hvm
+BLOCKDEVICEMAPPINGS	/dev/sda1	
+EBS	True	False	snap-0b89083237b989d55	8	gp2
+BLOCKDEVICEMAPPINGS	/dev/sdb	ephemeral0
+BLOCKDEVICEMAPPINGS	/dev/sdc	ephemeral1
+IMAGES	x86_64	2020-10-17T00:18:13.000Z	True	xen	ami-0e676f93669b3c712	207003333284/packer-example 1602893817	machine	packer-example 1602893817	207003333284	Linux/UNIX	False	/dev/sda1	ebs	simple	available	RunInstances	hvm
+BLOCKDEVICEMAPPINGS	/dev/sda1	
+EBS	True	False	snap-0d3b03a7687ede9af	8	gp2
+BLOCKDEVICEMAPPINGS	/dev/sdb	ephemeral0
+BLOCKDEVICEMAPPINGS	/dev/sdc	ephemeral1
